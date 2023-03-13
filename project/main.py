@@ -105,7 +105,7 @@ def train(hparams):
     # define the early stop.
     early_stopping = EarlyStopping(
         monitor='val_acc',
-        patience=10,
+        patience=5,
         mode='max',
     )
 
