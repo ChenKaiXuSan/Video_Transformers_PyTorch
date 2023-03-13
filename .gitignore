@@ -124,6 +124,14 @@ venv.bak/
 .vscode
 
 # seed project
+
+# seed project
 lightning_logs/
 MNIST
 .DS_Store
+
+false/
+logs/
+pretrained_weight/
+project/misc/test_video
+project/misc/test_video_store
